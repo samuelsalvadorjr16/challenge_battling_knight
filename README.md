@@ -3,10 +3,10 @@
 Note: Python Version  `Python 3.6` to up to run.
 
 # CLASSES
-`Files` class where all the methods, attributes for creating and reading a file (json, txt)
-`Items` class where all the methods, attributes all Items instance
-`Knights` class where all the methods, attributes all Knights instance
-`constants` model for all the COnstant Variable Stored
+`Files` class where all the methods, attributes for creating and reading a file (json, txt).
+`Items` class where all the methods, attributes all Items instance.
+`Knights` class where all the methods, attributes all Knights instance.
+`constants` model for all the COnstant Variable Stored.
 `Process` class where all the classes meet and compiled.
 
 # Usage
